@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cité de Bande</string>
+
+    <string name="help_top">"Félicitations, vous avez gagné notre intelligence artificielle au plus haut niveau de difficulté."</string>
+    <string name="help_bot">"S'il vous plaît écrivez-nous toute combinaison de jeux et la situation devrions-nous améliorer"</string>
+    <string name="help_mail">feedback.woodcock@gmail.com</string>
+
+    <string name="info_assassin">"Belle jeune fille douce - avec les mouvements de vitesse de l'éclair, courir vers l'ennemi et lui inflige de lourds dégâts en mêlée. Sous le feu de l'ennemi de mêlée rapidement pogibaetde."</string>
+    <string name="info_gangster">"Le gangster forte - se déplace rapidement et utilise Uzi automatique dans les deux mains pour un combat à de courtes distances. Il provoque de grands dommages à l'ennemi, mais ne peut pas tenir longtemps sous feu."</string>
+    <string name="info_mexican">"Homme en sombrero - se déplace lentement et courageusement résister à toutes les attaques des ennemis. Armé d'un fusil à chargement manuel, donc fait un peu de dégâts aux ennemis."</string>
+    <string name="info_soldier">"Le soldat, l'âme de la société - dans le calcul des mouvements et vise à frapper l'ennemi à moyennes et longues distances. Eh bien armés et équipés, il peut résister à des batailles prolongées."</string>
+    <string name="info_invalid">"Biker, en raison d'un accident est dans un fauteuil roulant et se déplace lentement. Sentiment de sécurité à distance, derrière son compatriote est important, incendie un bazooka."</string>
+
+    <string name="estimate_game_title">"Nos amis ont besoin d'aide"</string>
+    <string name="estimate_game_yes">"Noter l'application 5"</string>
+    <string name="estimate_game_no">"Trahir"</string>
+
+    <string name="battle_result_win">win</string>
+    <string name="battle_result_lose">lose</string>
+
+    <string name="tutorial_dialog1">"Il est l'ennemi"</string>
+    <string name="tutorial_dialog2">"Cette base, le protéger de l'ennemi"</string>
+    <string name="tutorial_dialog3">"Ce sont vos soldats et les envoyer à l'ennemi"</string>
+    <string name="tutorial_dialog4">"Cette base ennemie, il doit être détruit pour ga"</string>
+    <string name="tutorial_dialog5">"À l’attaque!"</string>
+</resources>

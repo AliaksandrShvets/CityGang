@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krieg Stadt</string>
+
+    <string name="help_top">Herzlichen Glückwunsch, Sie haben unsere künstliche Intelligenz auf höchstem Schwierigkeitsniveau gewonnen.</string>
+    <string name="help_bot">Bitte mailen Sie uns eine Kombination von Gaming und die Situation sollten wir verbessern</string>
+    <string name="help_mail">feedback.woodcock@gmail.com</string>
+
+    <string name="info_assassin">Das zerbrechliche Mädchen hübsch - mit schnellen Bewegungen, läuft auf den Feind fügt großen Schaden im Nahkampf. Unter feindlichem Feuer stirbt schnell.</string>
+    <string name="info_gangster">Der scharfe Gangster - bewegt sich schnell und nutzt die automatische Uzi in beiden Händen für einen Kampf auf kurze Distanzen. Es verursacht große Schäden an den Feind, kann aber nicht lange unter Gegenfeuer.</string>
+    <string name="info_mexican">Solider Mann im Sombrero - bewegt sich langsam und mutig gegen alle Angriffe Feinde. Bewaffnet mit einer Pistole mit manueller Beladung, so tut ein wenig Schaden für Feinde.</string>
+    <string name="info_soldier">Der Soldat, die Seele des Unternehmens - bei der Berechnung der Bewegungen und zielt darauf ab, den Feind auf mittleren und langen Distanzen zu treffen. Gut bewaffnet und ausgerüstet, kann es längeren Schlachten standhalten.</string>
+    <string name="info_invalid">Schwere Biker, durch einen Unfall ist im Rollstuhl und bewegt sich langsam. Sicheres Gefühl reichte, hinter Kerl ist bedeutendes Feuer ein bazooka.</string>
+
+    <string name="estimate_game_title">Unsere Freunde brauchen Hilfe</string>
+    <string name="estimate_game_yes">Bewerten Sie diese App für 5 Sterne</string>
+    <string name="estimate_game_no"> Verraten</string>
+
+    <string name="battle_result_win">win</string>
+    <string name="battle_result_lose">lose</string>
+
+    <string name="tutorial_dialog1">Das ist ENEMO</string>
+    <string name="tutorial_dialog2">Das ist Ihre Basis - schützen</string>
+    <string name="tutorial_dialog3">Dies sind eure Soldaten und senden sie an den Feind</string>
+    <string name="tutorial_dialog4">Dies ist die feindliche Basis, es muss zerstört werden, um zu gewinnen</string>
+    <string name="tutorial_dialog5">Ihre Basis wird angegriffen</string>
+</resources>

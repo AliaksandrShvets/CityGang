@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.woodcock.citygang.custom_view.AdjustableImageView
+        android:id="@+id/is_selected"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"
+        android:src="@drawable/selector_business_selected" />
+
+    <com.woodcock.citygang.custom_view.AdjustableImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"/>
+
+    <com.woodcock.citygang.custom_view.AdjustableImageView
+        android:id="@+id/stars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="true"/>
+</RelativeLayout>

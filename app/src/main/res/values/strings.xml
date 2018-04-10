@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">City Gang</string>
+
+    <string name="help_top">Поздравляем, Вы победили наш искусственный интеллект на самом высоком уровне сложности.</string>
+    <string name="help_bot">Пожалуйста, напишите нам какие игровые кобинаци и ситуации следует улучшить.</string>
+    <string name="help_mail">feedback.woodcock@gmail.com</string>
+
+    <string name="assassin">LT</string>
+    <string name="nigger">ST</string>
+    <string name="mex">TT</string>
+    <string name="soldier">PT</string>
+    <string name="invalid">ART</string>
+    <string name="name_assassin">Assassin (Sukashe Finass)</string>
+    <string name="name_nigger">Nigger (Dr. Dildo)</string>
+    <string name="name_mex">Mexican (Hot Burdidos)</string>
+    <string name="name_soldier">Soldier (Charmy Brett)</string>
+    <string name="name_invalid">Invalid (Harli Long)</string>
+
+    <string name="info_assassin">Хрупкая девушка приятной внешности - молниеносно перемещается, добегая до  противника наносит ему огромный урон в ближнем бою. Под огнем врагов быстро погибает.</string>
+    <string name="info_gangster">Резкий гангстер - быстро двигается и использует автомат узи в обоих руках для боя на коротких дистанциях. Наносит большой урон противнику, но не может долго стоять под встречным огнем.</string>
+    <string name="info_mexican">Солидный мужчина в самбрэро - двигается неспешно и мужественно выдерживает все атаки противников. Вооружен револьвером с ручным заряжанием, поэтому наносит мало урона врагам.</string>
+    <string name="info_soldier">Солдат, красавчик, душа компании - расчетлив в движениях и стремится поразить противника на средних и дальних дистанциях. Хорошо вооружен и экипирован, выдерживает затяжные бои.</string>
+    <string name="info_invalid">Суровый байкер, из-за несчастного случая находится в инвалидном кресле и медленно двигается. Безопасно чувствует себя в дальнем бою, за спинами товарищей ведет ощутимый огонь из базуки.</string>
+
+    <string name="estimate_game_title">Нашим друзьям нужна помощь</string>
+    <string name="estimate_game_yes">Оценить приложение на 5</string>
+    <string name="estimate_game_no">Отвернуться от них</string>
+
+    <string name="battle_result_win">win</string>
+    <string name="battle_result_lose">lose</string>
+
+    <string name="tutorial_dialog1">Это враг</string>
+    <string name="tutorial_dialog2">Это база, защити ее от врага</string>
+    <string name="tutorial_dialog3">Это твои бойцы, отправь их на врага</string>
+    <string name="tutorial_dialog4">Это база врага, ее нужно уничтожить чтобы победить</string>
+    <string name="tutorial_dialog5">На твою базу напали</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5893720116993539/5533192405</string>
+    <string name="Interstitial_ad_unit_id">ca-app-pub-5893720116993539/3916858406</string>
+    <string name="rewarded_video_1000_ad_unit_id">ca-app-pub-5893720116993539/3777257603</string>
+
+    <string name="part_2">sIvDXd46QaSp4POFgA4EitFRiwIs09GGI5NDyOTkDW60PEJxChokhr6pQE9tmyOxgNH85lnI1E7brTWOJqRNS+z51qunwWNDAIvA+cya6Ja5nBb/sGLXd12Bm9+XkFYjsqhN</string>
+
+    <integer-array name="time_notify">
+        <item>86400</item>
+        <item>259200</item>
+    </integer-array>
+
+    <integer name="size">2</integer>
+
+    <string name="reclama">Подключение</string>
+
+    <string-array name="dialog_vote">
+        <item>Уважение - это ключ в нашем деле, когда тебя просят о помощи - будь снисходителен.</item>
+        <item>Я многим обязан этим людям,  но не в силах помочь им, поэтому прошу тебя об услуге.</item>
+    </string-array>
+    <string-array name="dialog_array1">
+        <item>Ты бросаешь вызов мне, своему Дону?</item>
+        <item>Я дал тебе все, ты был мне как сын, а теперь ты хочешь отобрать у меня мой город.</item>
+        <item>Тебе придется доказать, что ты можешь вести семейные дела лучше, чем мои Капо.</item>
+    </string-array>
+    <string-array name="dialog_array2">
+        <item>Ты знаешь наших бойцов, всегда помни их сильные и слабые стороны.</item>
+    </string-array>
+    <string-array name="dialog_array3">
+        <item>Да, согласен, у нас есть проблеммы в семейном бизнесе - мои Капо слабеют.</item>
+        <item>Но это не значит, что ты сильнее их, попробуй силы в бою с самым слабым из них.</item>
+        <item>Выбери себе бизнес по вкусу и захвати его.</item>
+    </string-array>
+    <string-array name="dialog_array4a">
+        <item>Бой длится 7 раундов по 60 секунд, каждые 11 секунд делай ход.</item>
+        <item>Выбери направление, пошли туда бойцов и уничтожь базу противника.</item>
+    </string-array>
+    <string-array name="dialog_array4b">
+        <item>Каждый солдат равнозначен каждому, только совместные атаки принесут победу.</item>
+    </string-array>
+    <string-array name="dialog_array4c">
+        <item>Они добрались до тебя, отправь туда бойцов.</item>
+    </string-array>
+    <string-array name="dialog_array5">
+        <item>Эти шакалы обидели тебя, мой мальчик? Будь внимателен.</item>
+    </string-array>
+    <string-array name="dialog_array6">
+        <item>Дела твои дрянь, возьми денег у наших друзей, они помогут.</item>
+        <!--<item_personage_bar>Дела твои дрянь, возьми денег у наших друзей, они помогут.</item_personage_bar>-->
+    </string-array>
+    <string-array name="dialog_array7">
+        <item>Слабеют не только мои Капо, но и моя власть над ними.</item>
+        <item>Они воруют деньги семьи, уничтожь их всех.</item>
+    </string-array>
+    <string-array name="dialog_array8">
+        <item>Теперь ты знаешь его тактику, следующий бой будет легче.</item>
+    </string-array>
+    <string-array name="dialog_array9">
+        <item>Прояви уважение, дай мне погибнуть в бою, а не как дряхлый старик.</item>
+    </string-array>
+    <string-array name="dialog_array10">
+        <item>Ты юн, красив и очень нетерпелив..как твоя мать.. она была прекрасной женщиной.</item>
+    </string-array>
+    <string-array name="dialog_array11">
+        <item>Ты достоин занять мое место.</item>
+        <item>Если хочешь я могу стать твоим консильери.</item>
+        <item>Этот город мал для тебя.</item>
+        <item>Скоро наши друзья наладят связи с другими семьями.</item>
+        <item></item>
+    </string-array>
+    <string-array name="dialog_array12">
+        <item>Ты еще не опытен, я не могу передать дела семьи в твои руки.</item>
+    </string-array>
+    <string-array name="dialog_win">
+        <item>Хорошо, продолжай. Я буду присматривать за твоими успехами.</item>
+        <!--<item_personage_bar>Ты победил в бою и захватил часть бизнеса.</item_personage_bar>
+        <item_personage_bar>Каждый час бизнес приносит тебе доход.</item_personage_bar>
+        <item_personage_bar>Чем больше побед, тем больше доход.</item_personage_bar>-->
+    </string-array>
+    <string-array name="dialog_lose">
+        <item>Ты не слушаешь своего Дона, используй сильные стороны бойцов, прикрывай слабые.</item>
+    </string-array>
+    <string-array name="dialog_technical_loss">
+        <item>Твои бойцы не смогли победить без тебя.</item>
+    </string-array>
+    <string-array name="dialog_gold_personages">
+        <item>Иногда появляются  особые бойцы - они тебя удивят.</item>
+    </string-array>
+</resources>

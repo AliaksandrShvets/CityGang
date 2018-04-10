@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types_combo">
+        <item>ART-PT-TT-ST-LT</item>
+        <item>ART-PT-TT-ST</item>
+        <item>PT-TT-ST-LT</item>
+        <item>ART-PT-ST-LT</item>
+        <item>ART-TT-ST-LT</item>
+        <item>ART-PT-TT-LT</item>
+        <item>ART-PT-TT</item>
+        <item>TT-ST-LT</item>
+        <item>TT-ST-LT</item>
+        <item>PT-TT-ST</item>
+        <item>ST-LT</item>
+        <item>ART</item>
+        <item>PT</item>
+        <item>TT</item>
+        <item>ST</item>
+        <item>LT</item>
+    </string-array>
+    <string-array name="types_combo_lose">
+        <item>LT</item>
+        <item>ST</item>
+        <item>TT</item>
+        <item>PT</item>
+        <item>ART</item>
+    </string-array>
+</resources>

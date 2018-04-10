@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/base_hp_height">
+
+    <View
+        android:id="@+id/line_hp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#d222" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/hp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0"
+            android:background="@drawable/hp_ally" />
+
+        <TextView
+            android:id="@+id/last_hp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="#d222" />
+    </LinearLayout>
+</RelativeLayout>

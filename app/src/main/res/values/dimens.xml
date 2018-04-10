@@ -1,0 +1,28 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="text_big">24dp</dimen>
+    <dimen name="text_normal">18dp</dimen>
+    <dimen name="text_little">12dp</dimen>
+    <dimen name="margin_little">5dp</dimen>
+    <dimen name="margin_big">16dp</dimen>
+    <dimen name="dialog_name_panel">30dp</dimen>
+    <dimen name="dialog_param_height">20dp</dimen>
+
+
+    <dimen name="logo_bird_size">120dp</dimen>
+    <dimen name="consumable_width">50dp</dimen>
+    <dimen name="consumable_indicator_size">20dp</dimen>
+    <dimen name="mine_size">30dp</dimen>
+    <dimen name="margin_logo">30dp</dimen>
+    <dimen name="vehicle_panel">74dp</dimen>
+    <dimen name="base_hp_height">6dp</dimen>
+    <dimen name="vehicle_hp_height">5dp</dimen>
+    <dimen name="padding_consumable_big">8dp</dimen>
+    <dimen name="padding_consumable_little">6dp</dimen>
+
+    <dimen name="margin_left_tv">50dp</dimen>
+    <dimen name="margin_left_big_tv">55dp</dimen>
+    <dimen name="margin_top_tv">120dp</dimen>
+    <dimen name="margin_top_small_tv">20dp</dimen>
+</resources>

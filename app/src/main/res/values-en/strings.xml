@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">City Gang</string>
+
+    <string name="help_top">Congratulations, you have won our artificial intelligence at the highest difficulty level.</string>
+    <string name="help_bot">Please email us any combination of gaming and the situation should we improve</string>
+    <string name="help_mail">feedback.woodcock@gmail.com</string>
+
+    <string name="info_assassin">The fragile girl good-looking - with lightning speed moves, run down to the enemy inflicts great damage in the melee. Under enemy fire quickly dies.</string>
+    <string name="info_gangster">The sharp gangster - moves quickly and uses automatic Uzi in both hands for a fight at short distances. It causes great damage to the enemy, but can not stand for long under counter fire.</string>
+    <string name="info_mexican">Solid man in sambrero - moves slowly and bravely withstand all attacks enemies. Armed with a gun with manual loading, so does a little damage to enemies.</string>
+    <string name="info_soldier">The soldier, handsome, soul of the company - in calculating movements and aims to hit the enemy at medium and long distances. Well armed and equipped, it can withstand prolonged battles.</string>
+    <string name="info_invalid">Severe biker, due to an accident is in a wheelchair and moves slowly. Safe feeling ranged, behind fellow is significant fire a bazooka.</string>
+
+    <string name="estimate_game_title">Our friends need help</string>
+    <string name="estimate_game_yes">Rate app for 5 stars</string>
+    <string name="estimate_game_no"> Betray them</string>
+
+    <string name="battle_result_win">win</string>
+    <string name="battle_result_lose">lose</string>
+
+    <string name="tutorial_dialog1">That’s enemy</string>
+    <string name="tutorial_dialog2">That’s your base - protect it</string>
+    <string name="tutorial_dialog3">These are your soldiers and send them to the enemy</string>
+    <string name="tutorial_dialog4">This is the enemy base, it must be destroyed to win</string>
+    <string name="tutorial_dialog5">Your base is under attack</string>
+</resources>

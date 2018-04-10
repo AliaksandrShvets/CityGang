@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gangue da cidade</string>
+
+    <string name="help_top">Parabéns, você ganhou nossa inteligência artificial no mais alto nível de dificuldade.</string>
+    <string name="help_bot">Envie-nos por correio electrónico alguma combinação de jogo ea situação devemos nós melhorar</string>
+    <string name="help_mail">feedback.woodcock@gmail.com</string>
+
+    <string name="info_assassin">A menina frágil de boa aparência - com a velocidade do relâmpago se move, correr para baixo para o inimigo inflige grandes danos no corpo a corpo. Sob fogo inimigo rapidamente morre.</string>
+    <string name="info_gangster">O gangster afiado - move-se rapidamente e usa Uzi automático em ambas as mãos para uma luta em distâncias curtas. Ele causa grandes danos ao inimigo, mas não pode ficar por muito tempo sob contra fogo.</string>
+    <string name="info_mexican">Homem sólido no sombrero - move lentamente e bravamente suportar todos os ataques inimigos. Armado com uma arma com carregamento manual, assim faz um pouco de dano aos inimigos.</string>
+    <string name="info_soldier">O soldado, bonito, a alma da empresa - no cálculo de movimentos e pretende bater o inimigo em médias e longas distâncias. Bem armado e equipado, ele pode suportar batalhas prolongadas.</string>
+    <string name="info_invalid">Motociclista grave, devido a um acidente está em uma cadeira de rodas e se move lentamente. Sensação de segurança variou, por trás companheiro é fogo significativo uma bazuca.</string>
+
+    <string name="estimate_game_title">Nossos amigos precisam de ajuda</string>
+    <string name="estimate_game_yes">Avalie aplicativo para 5 estrelas</string>
+    <string name="estimate_game_no"> Trai-los</string>
+
+    <string name="battle_result_win">win</string>
+    <string name="battle_result_lose">lose</string>
+
+    <string name="tutorial_dialog1">Isso é inimigo</string>
+    <string name="tutorial_dialog2">Essa é a sua base - proteja-a</string>
+    <string name="tutorial_dialog3">Estes são os seus soldados e enviá-los para o inimigo</string>
+    <string name="tutorial_dialog4">Esta é a base inimiga, deve ser destruída para ganhar</string>
+    <string name="tutorial_dialog5">Sua base está sob ataque</string>
+
+</resources>

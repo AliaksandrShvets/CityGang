@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guerra City</string>
+
+    <string name="help_top">Enhorabuena, has ganado nuestra inteligencia artificial en el nivel de dificultad más alto.</string>
+    <string name="help_bot">Por favor, envíenos un correo electrónico para mejorar el juego</string>
+    <string name="help_mail">feedback.woodcock@gmail.com</string>
+
+    <string name="info_assassin">Belleza - corre rápido, trae la muerte rápida, pero frágil. Bajo el fuego enemigo muere rápidamente.</string>
+    <string name="info_gangster">Gángster - se mueve rápidamente y utiliza automática Uzi, para luchar en las distancias cortas. Esto causa un gran daño al enemigo, pero no puede soportar por mucho tiempo bajo el fuego.</string>
+    <string name="info_mexican">Hombre sólido en el sombrero - se está moviendo lentamente y con valor resistir todos los ataques enemigos. Armado con una pistola, también lo hace poco daño al enemigo.</string>
+    <string name="info_soldier">El soldado, una hermosa, alma de la empresa - en el cálculo de los movimientos y su objetivo es golpear al enemigo en distancias medias y largas. Bien armados y equipados, que pueden soportar largas batallas.</string>
+    <string name="info_invalid">Motorista grave en un accidente se encuentra en una silla de ruedas y se mueve lentamente. Sensación de distancia segura detrás de su compañero dispara desde un lanzagranadas</string>
+
+    <string name="estimate_game_title">Nuestros amigos necesitan ayuda</string>
+    <string name="estimate_game_yes">Dar una calificación de 5</string>
+    <string name="estimate_game_no"> Traidor</string>
+
+    <string name="battle_result_win">win</string>
+    <string name="battle_result_lose">lose</string>
+
+    <string name="tutorial_dialog1"> Es el enemigo</string>
+    <string name="tutorial_dialog2">Esta base, a protegerlo de los enemigos</string>
+    <string name="tutorial_dialog3">Estos son sus soldados y los envían a los enemigos</string>
+    <string name="tutorial_dialog4">Esta base enemiga debe ser destruido para ganar</string>
+    <string name="tutorial_dialog5"> Ataque</string>
+</resources>

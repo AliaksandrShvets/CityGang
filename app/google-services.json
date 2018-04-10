@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "47779449380",
+    "firebase_url": "https://citygang-2b48b.firebaseio.com",
+    "project_id": "citygang-2b48b",
+    "storage_bucket": "citygang-2b48b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47779449380:android:e6df13c614e544d4",
+        "android_client_info": {
+          "package_name": "com.woodcock.citygang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47779449380-mv7ddbsl2jbg49q2sdrk3q10bdei23jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woodcock.citygang",
+            "certificate_hash": "b3c3292f41af0e485f0f7211343a490aad198a69"
+          }
+        },
+        {
+          "client_id": "47779449380-vbc0990ahufa9mss6gi4li9iaipvemdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNa7sVXad8JPRrLPOuzQbAfLgQgeXOzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47779449380-vbc0990ahufa9mss6gi4li9iaipvemdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

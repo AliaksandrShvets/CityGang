@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/content_bg"
+    android:gravity="center">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="8dp"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/l_en"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_flag_gb"
+                android:paddingBottom="8dp"
+                android:paddingTop="4dp"
+                android:text="English GB"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/l_us"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_flag_us"
+                android:paddingBottom="8dp"
+                android:paddingTop="4dp"
+                android:text="English US"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/l_es"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_flag_spain"
+                android:paddingBottom="8dp"
+                android:paddingTop="4dp"
+                android:text="Español"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/l_de"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_flag_germany"
+                android:paddingBottom="8dp"
+                android:paddingTop="4dp"
+                android:text="Deutsch"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/l_pt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_flag_portugal"
+                android:paddingBottom="8dp"
+                android:paddingTop="4dp"
+                android:text="Português"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/l_ru"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_flag_russia"
+                android:paddingBottom="8dp"
+                android:paddingTop="4dp"
+                android:text="Русский"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/l_fr"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_flag_france"
+                android:paddingBottom="8dp"
+                android:paddingTop="4dp"
+                android:text="Français"
+                android:textSize="24sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

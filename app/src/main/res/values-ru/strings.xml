@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Город Войны</string>
+
+    <string name="help_top">Поздравляем, Вы победили наш искусственный интеллект на самом высоком уровне сложности.</string>
+    <string name="help_bot">Пожалуйста, напишите нам какие игровые кобинаци и ситуации следует улучшить.</string>
+    <string name="help_mail">feedback.woodcock@gmail.com</string>
+
+    <string name="info_assassin">Хрупкая девушка приятной внешности - молниеносно перемещается, добегая до  противника наносит ему огромный урон в ближнем бою. Под огнем врагов быстро погибает.</string>
+    <string name="info_gangster">Резкий гангстер - быстро двигается и использует автомат узи в обоих руках для боя на коротких дистанциях. Наносит большой урон противнику, но не может долго стоять под встречным огнем.</string>
+    <string name="info_mexican">Солидный мужчина в самбрэро - двигается неспешно и мужественно выдерживает все атаки противников. Вооружен револьвером с ручным заряжанием, поэтому наносит мало урона врагам.</string>
+    <string name="info_soldier">Солдат, красавчик, душа компании - расчетлив в движениях и стремится поразить противника на средних и дальних дистанциях. Хорошо вооружен и экипирован, выдерживает затяжные бои.</string>
+    <string name="info_invalid">Суровый байкер, из-за несчастного случая находится в инвалидном кресле и медленно двигается. Безопасно чувствует себя в дальнем бою, за спинами товарищей ведет ощутимый огонь из базуки.</string>
+
+    <string name="estimate_game_title">Нашим друзьям нужна помощь</string>
+    <string name="estimate_game_yes">Оценить приложение на 5</string>
+    <string name="estimate_game_no">Отвернуться от них</string>
+
+    <string name="battle_result_win">win</string>
+    <string name="battle_result_lose">lose</string>
+
+    <string name="tutorial_dialog1">Это враг</string>
+    <string name="tutorial_dialog2">Это база, защити ее от врага</string>
+    <string name="tutorial_dialog3">Это твои бойцы, отправь их на врага</string>
+    <string name="tutorial_dialog4">Это база врага, ее нужно уничтожить чтобы победить</string>
+    <string name="tutorial_dialog5">На твою базу напали</string>
+</resources>
