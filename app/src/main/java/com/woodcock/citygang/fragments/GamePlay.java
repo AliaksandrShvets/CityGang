@@ -74,7 +74,7 @@ public class GamePlay extends Fragment {
 
     //Game settings
     private static int businessId;
-    private static int PLANC_MAX = 230, ROUND_COUNT = 1, SECONDS_COUNT = 1800;
+    private static int PLANC_MAX = 100, ROUND_COUNT = 1, SECONDS_COUNT = 1800;
     private int tics = 99999, round = 1, seconds = SECONDS_COUNT;
     private boolean isFirstRun = true, isTimerPlay = true, isGameStart = false, isGameOver = false,
             isFirstBattle = false, isTechnicalLoss = false,

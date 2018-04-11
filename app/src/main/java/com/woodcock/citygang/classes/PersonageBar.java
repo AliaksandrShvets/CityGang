@@ -22,7 +22,7 @@ public class PersonageBar {
     //cooldown
     private TextView cooldownText;
     private int imageId, cooldown;
-    private int PERSONAGE_COOLDOWN = 1200;
+    private int PERSONAGE_COOLDOWN = 400;
     private boolean isPersonageEnable = true, isAllDisabled=false;
 
     public PersonageBar(int position) {
